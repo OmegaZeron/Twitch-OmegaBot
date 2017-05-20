@@ -1,0 +1,6 @@
+Guild
+Striker
+Aerial
+Adept
+Brave
+Alchemy
