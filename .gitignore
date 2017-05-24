@@ -1,5 +1,5 @@
 *.pem
 logs/
-/mirc.ini
-/servers.ini
+C:\Users\Greg\AppData\Roaming\mIRC\mirc.ini
+C:\Users\Greg\AppData\Roaming\mIRC\servers.ini
 *.tm_
