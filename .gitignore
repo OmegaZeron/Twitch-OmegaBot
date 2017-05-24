@@ -1,4 +1,5 @@
 *.pem
 logs/
-mirc.ini
-servers.ini
+/mirc.ini
+/servers.ini
+*.tm_
